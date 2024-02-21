@@ -3,7 +3,7 @@
 
 
 int main() {
-    std::cout << "< WELCOME TO YEWSBOT DESKTOP >\n\n";
+    std::cout << "< WELCOME TO APP DESKTOP >\n\n";
 
     // present 2 options, one to continue and one to exit
     std::cout << "1. Continue\n";
